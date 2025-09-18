@@ -1,0 +1,5 @@
+.env
+known-word.txt
+.DS_Store
+images backup/
+backup/
