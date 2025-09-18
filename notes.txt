@@ -1,0 +1,1001 @@
+する	to do	する
+いる	to be (of animate objects), to exist	いる
+から	from (e.g. time, place, numerical quantity), since	から
+何	what	何[なに]
+ある	to be (usu. of inanimate objects), to exist, to live	ある
+私	I, me	私[わたし]
+いい	good, excellent, fine, nice, pleasant, agreeable	いい
+そう	so, really, seeming	そう
+なる	to become, to get, to grow, to be, to reach, to attain	なる
+じゃ	then, well, so, well then	じゃ
+人	man, person	人[ひと]
+俺	I, me	俺[おれ]
+言う	to say, to utter, to declare	言[い]う
+この	this (followed by noun that is close to the speaker)	この
+やる	to do, to undertake, to perform, to play (a game), to study	やる
+これ	this (not followed by noun) (indicating an item near the speaker, the action of the speaker, or the current topic)	これ
+行く	to go, to move (in a direction or towards a specific location)	行[い]く
+分かる	to understand, to comprehend, to grasp, to see, to get, to follow	分[わ]かる
+君	you, buddy, pal	君[きみ]
+くれる	to give, to let one have, to do for one, to be given	くれる
+それ	that (not followed by noun) (indicating something near the listener or the action of the listener), it	それ
+でも	but, however, though, nevertheless, still, yet, even so	でも
+どう	how, in what way, how about	どう
+見る	to see, to look, to watch, to view, to observe	見[み]る
+来る	to come, to approach, to arrive	来[く]る
+お前	you	お 前[まえ]
+さん	Mr. Miss.	さん
+思う	to think, to consider, to believe	思[おも]う
+もう	now, soon, shortly, before long, presently	もう
+その	that (followed by noun that is close to the listener)	その
+できる	to be able (in a position) to do, to be up to the task	できる
+あなた	you (referring to someone of equal or lower status)	あなた
+僕	I	僕[ぼく]
+ここ	here (place physically close to the speaker), this place	ここ
+彼	he, him	彼[かれ]
+まで	until (a time), till, to, up to	まで
+今	now, the present time, just now, soon, immediately,	今[いま]
+知る	to be aware of, to know, to be conscious of	知[し]る
+時	time, hour, moment	時[とき]
+誰	who	誰[だれ]
+え	picture, drawing, painting, sketch	え
+あの	that (followed by noun that is distant from both speaker and listener)	あの
+聞く	to hear	聞[き]く
+はい	yes	はい
+出る	to leave, to exit, to go out, to come out, to get out	出[で]る
+話	talk, speech, chat, story, conversation	話[はなし]
+年	year	年[とし]
+待つ	to wait	待[ま]つ
+前	ago, before (some event), previously	前[まえ]
+どこ	where, what place	どこ
+気	spirit, mind, heart	気[き]
+音	sound, noise, report	音[おと]
+なぜ	why, how	なぜ
+彼女	she, her	彼女[かのじょ]
+中	inside, in	中[なか]
+うん	yes, yeah, uh huh	うん
+そんな	like that, that sort of	そんな
+違う	to differ (from), to vary	違[ちが]う
+大丈夫	safe, all right, OK, okay	大丈夫[だいじょうぶ]
+自分	myself, yourself, oneself, himself, herself	自分[じぶん]
+なんて	how ..!, what ..!	なんて
+男	man, male	男[おとこ]
+よい	good, excellent, fine, nice, pleasant, agreeable	よい
+まだ	as yet, hitherto, only, still	まだ
+ありがとう	thank you	ありがとう
+ちょっと	just a minute, short time, just a little	ちょっと
+また	again, and, also	また
+みんな	everyone, everybody	みんな
+いや	disagreeable, detestable, unpleasant, reluctant	いや
+かも	may, might, perhaps, may be, possibly	かも
+悪い	bad, poor, inferior	悪[わる]い
+いう	to say, to utter, to declare	いう
+死ぬ	to die, to pass away	死[し]ぬ
+みたい	-like, sort of, similar to, resembling	みたい
+日	day, days	日[ひ]
+家	house, residence, dwelling	家[いえ]
+時間	time	時間[じかん]
+早い	fast, quick, hasty, brisk	早[はや]い
+手	hand, arm	手[て]
+えっ	huh?	えっ
+もの	thing, object, article, stuff	もの
+すごい	amazing, great (e.g. of skills), wonderful, terrific, terrible, dreadful	すごい
+話す	to talk, to speak, to converse, to chat	話[はな]す
+ダメ	no good, not serving its purpose, useless, broken	ダメ
+くださる	to kindly do for one, to oblige, to favour	くださる
+殺す	to kill	殺[ころ]す
+戻る	to turn back, to return, to go back, to recover, to rebound	戻[もど]る
+なんだ	what!	なんだ
+持つ	to hold (in one's hand), to take, to carry	持[も]つ
+帰る	to return, to come home, to go home, to go back	帰[かえ]る
+だから	so, therefore	だから
+こんな	such (about something or someone close to the speaker (including the speaker), or about ideas expressed by the speaker), like this	こんな
+今日	today, this day	今日[きょう]
+目	eye, eyeball	目[め]
+入る	to get in, to go in, to come in, to flow into, to set, to set in	入[はい]る
+仕事	work, job, business, occupation, employment, vocation, task	仕事[しごと]
+よく	frequently, often, nicely, properly, well, skillfully	よく
+好き	liking, fondness, love	好[す]き
+必要	necessary, needed, essential, indispensable	必要[ひつよう]
+ちゃん	suffix for familiar person	ちゃん
+考える	to think about, to take into consideration	考[かんが]える
+会う	to meet, to encounter, to see	会[あ]う
+女	female, woman	女[おんな]
+じゃあ	then, well, so, well then	じゃあ
+食べる	to eat	食[た]べる
+同じ	same, identical, equal, uniform, equivalent, similar, common (origin), changeless, alike	同[おな]じ
+はず	it should be so, bound to be, expected to be, must be	はず
+あれ	that (indicating something distant from both speaker and listener (in space, time or psychologically), or something understood without naming it directly)	あれ
+という	called, named	という
+ええ	yes, that is correct, right	ええ
+本当に	really, truly	本当[ほんとう]に
+おい	hey!, oi!, ahoy!	おい
+あんた	you (familiar form of anata)	あんた
+使う	to use (a thing, method, etc.), to make use of, to put to use	使[つか]う
+もらう	to receive, to take, to accept	もらう
+子	child	子[こ]
+作る	to make, to produce, to manufacture, to build, to construct	作[つく]る
+すぐ	immediately, at once, directly, soon, before long, shortly	すぐ
+分	part, segment, share, minute	分[ぶん]
+先生	teacher, master, doctor	先生[せんせい]
+問題	question (e.g. on a test), problem	問題[もんだい]
+すぎる	to be excessive, to be too much	すぎる
+様	appearing ..., looking ...	様[よう]
+次	next, following, subsequent	次[つぎ]
+他	other	他[た]
+バカ	fool, idiot	バカ
+入れる	to put in, to let in, to take in, to bring in, to insert, to set (a jewel, etc.)	入[い]れる
+だが	but, however, (and) yet, nevertheless, still, for all that	だが
+心配	worry, concern, anxiety	心配[しんぱい]
+出す	to take out, to get out	出[だ]す
+信じる	to believe, to believe in, to place trust in, to confide in, to have faith in	信[しん]じる
+頼む	to request, to beg, to ask	頼[たの]む
+そして	and, and then, thus, and now	そして
+まあ	"just (e.g. ""just wait here""), come now, now"	まあ
+電話	telephone, phone call	電話[でんわ]
+なさる	to do	なさる
+車	car, automobile, vehicle	車[くるま]
+子供	child, children	子供[こども]
+一	one	一
+者	person	者[もの]
+ただ	only, just, free of charge, ordinary, common, usual	ただ
+私たち	we, us	私[わたし]たち
+お願い	please, request, wish	お 願[ねが]い
+一緒に	together (with), at the same time, in a lump	一緒[いっしょ]に
+しか	only, nothing but	しか
+見える	to be seen, to be in sight	見[み]える
+べし	shall, should, must	べし
+後	later, afterwards, since	後[のち]
+わけ	conclusion, judgement or calculation based on something read or heard, reason	わけ
+こっち	this way (direction close to the speaker or towards the speaker), this direction	こっち
+として	as (i.e. in the role of)	として
+どうも	thanks	どうも
+人間	human being, man, person	人間[にんげん]
+ママ	Mama	ママ
+忘れる	to forget, to leave carelessly, to be forgetful of, to forget about, to forget (an article)	忘[わす]れる
+声	voice	声[こえ]
+友達	friend, companion	友達[ともだち]
+もっと	(some) more, even more, longer, further	もっと
+呼ぶ	to call out (to), to call, to invoke	呼[よ]ぶ
+顔	face	顔[かお]
+力	force, strength, might, vigour (vigor), energy	力[ちから]
+しまう	to finish, to stop, to end, to put an end to, to bring to a close	しまう
+最高	highest, supreme, the most	最高[さいこう]
+飲む	to drink, to gulp, to swallow, to take (medicine)	飲[の]む
+こう	in this way (used for something or someone close to the speaker, including the speaker himself, or for the opinions of the speaker), thus, such	こう
+方	direction, way, side, area (in a particular direction)	方[ほう]
+つく	to breathe out, to breathe	つく
+つける	to turn on, to switch on, to light up	つける
+そこ	there (place relatively near listener)	そこ
+教える	to teach, to inform, to instruct	教[おし]える
+取る	to take, to pick up, to harvest, to earn, to win, to choose	取[と]る
+なんか	things like, something	なんか
+女性	woman, female	女性[じょせい]
+助ける	to help, to save, to rescue, to give relief to, to spare (life), to reinforce, to promote, to abet	助[たす]ける
+俺たち	we, us	俺[おれ]たち
+少し	small quantity, little, few, something	少[すこ]し
+何だ	what!	何[なん]だ
+名前	name	名前[なまえ]
+家族	family, members of a family	家族[かぞく]
+いつも	always, usually, every time	いつも
+万	ten thousand	万[ばん]
+ごめん	sorry, declining (something), dismissal	ごめん
+世界	the world, society, the universe	世界[せかい]
+本当	truth, reality, actuality, fact	本当[ほんとう]
+歳	-years-old	歳[さい]
+あいつ	he, she, that guy	あいつ
+逃げる	to escape, to run away	逃[に]げる
+せい	consequence, outcome, result, blame	せい
+最後	last, end, conclusion, latest, most recent	最後[さいご]
+奴	fellow, guy, chap	奴[やつ]
+娘	daughter	娘[むすめ]
+頭	head	頭[あたま]
+生きる	to live, to exist	生[い]きる
+無理	unreasonable, unnatural, unjustifiable	無理[むり]
+ほら	look!, look out!, hey!, look at me!, there you are!	ほら
+パパ	Papa	パパ
+見せる	to show, to display	見[み]せる
+関係	relation, relationship, connection	関係[かんけい]
+それで	and, thereupon, because of that	それで
+どんな	what, what kind of	どんな
+どうぞ	please, here you are	どうぞ
+心	heart, spirit	心[こころ]
+守る	to protect, to guard, to defend	守[まも]る
+場所	place, location, spot, position	場所[ばしょ]
+終わる	to finish, to end, to close	終[お]わる
+相手	companion, partner, company	相手[あいて]
+我々	we	我々[われわれ]
+ので	that being the case, because of ..., the reason is ...., given that...	ので
+変わる	to change, to be transformed, to be altered, to vary	変[か]わる
+ずっと	continuously in some state (for a long time, distance), throughout, all along, the whole time, all the way	ずっと
+寝る	to lie down, to go to bed, to sleep	寝[ね]る
+買う	to buy, to purchase	買[か]う
+ほしい	wanted, wished for, in need of, desired	ほしい
+絶対	absolutely, unconditionally	絶対[ぜったい]
+体	body	体[からだ]
+部屋	room	部屋[へや]
+以上	not less than, ... and more, ... and upwards	以上[いじょう]
+先	previous, prior, former, some time ago, preceding	先[さき]
+彼ら	they (usually male), them	彼[かれ]ら
+頑張る	to persevere, to persist, to keep at it, to hang on, to hold out, to do one's best	頑張[がんば]る
+明日	tomorrow	明日[あした]
+よし	alright, all right, right on, looking good, OK, okay	よし
+上	above, up, over	上[うえ]
+ほど	degree, extent, bounds, limit	ほど
+怖い	scary, frightening, eerie, dreadful	怖[こわ]い
+神	god, deity, divinity, spirit	神[かみ]
+強い	strong, powerful, mighty, potent	強[つよ]い
+全部	all, entire, whole, altogether	全部[ぜんぶ]
+どうして	why?, for what reason, how, in what way, for what purpose, what for	どうして
+楽しい	enjoyable, fun	楽[たの]しい
+もちろん	of course, certainly, naturally	もちろん
+すべて	everything, all, the whole	すべて
+回	counter for occurrences	回[かい]
+息子	son	息子[むすこ]
+おる	to be (animate), to be, to exist	おる
+夢	dream	夢[ゆめ]
+物	thing, object, article, stuff, substance	物[もの]
+うわ	Wow!, Holy smokes!, Aaargh!, O my God!, oops, eep	うわ
+始める	to start, to begin, to commence, to initiate, to originate	始[はじ]める
+まさか	by no means, never!, well, I never!, you don't say!, certainly (not)	まさか
+らしい	seeming ... (expresses judgment based on evidence, reason or trustworthy hearsay), appearing ...	らしい
+つもり	intention, plan	つもり
+とき	time, hour, moment	とき
+金	money	金[きむ]
+見つける	to discover, to find (e.g. an error in a book), to come across, to detect, to spot	見[み]つける
+初めて	for the first time	初[はじ]めて
+いつ	when, how soon	いつ
+起きる	to get up, to rise	起[お]きる
+本	book, volume, script	本[ほん]
+とる	to take, to pick up, to harvest	とる
+結婚	marriage	結婚[けっこん]
+大変	hard, very, greatly	大変[たいへん]
+では	then, well, so, well then	では
+愛す	to love	愛[あい]す
+覚える	to memorize, to memorise, to commit to memory, to learn by heart, to bear in mind, to remember	覚[おぼ]える
+元気	health(y), robust, vigor, vigour, energy, vitality, vim, stamina, spirit, courage, pep	元気[げんき]
+がる	to show signs of being, to feel, to think	がる
+続ける	to continue, to keep up, to keep on	続[つづ]ける
+人生	(human) life	人生[じんせい]
+なあ	hey, say, look, used to get someone's attention or press one's point	なあ
+意味	meaning, significance	意味[いみ]
+店	shop	店[みせ]
+黙る	to be silent	黙[だま]る
+こいつ	this fellow, this guy, this person	こいつ
+やつ	fellow, guy, chap	やつ
+まま	as it is	まま
+書く	to write, to compose	書[か]く
+そういう	such, like that, that sort of, very	そういう
+乗る	to get on (train, plane, bus, ship, etc.), to get in, to board, to take, to embark	乗[の]る
+など	et cetera, etc., and the like, and so forth	など
+所	place, spot, scene, site	所[ところ]
+しれる	to become known, to come to light, to be discovered	しれる
+第一	first, foremost, number one	第[だい]
+一緒	together	一緒[いっしょ]
+警察	police	警察[けいさつ]
+言葉	words, language, dialect	言葉[ことば]
+しかし	however, but	しかし
+皆	all, everyone, everybody	皆[みな]
+気持ち	feeling, sensation, mood	気持[きも]ち
+父	father	父[ちち]
+理由	reason, pretext, motive	理由[りゆう]
+きっと	surely, undoubtedly, almost certainly, most likely	きっと
+受ける	to receive, to get	受[う]ける
+ひどい	cruel, heartless, hard, harsh, severe	ひどい
+言える	to be possible to say, to be able to say	言[い]える
+決める	to decide, to choose, to determine, to make up one's mind	決[き]める
+どういう	in what way, why, what kind of	どういう
+やっぱり	I thought so! I knew it!	やっぱり
+元	origin, source	元[もと]
+最初	beginning, outset, first, onset	最初[さいしょ]
+うつ	to hit, to strike, to shoot (at),	うつ
+ドル	dollar	ドル
+犬	dog	犬[いぬ]
+事	thing, matter	事[こと]
+男性	man, male	男性[だんせい]
+こそ	for sure	こそ
+変	strange, odd, peculiar, weird, curious, queer, eccentric, funny, suspicious, fishy	変[へん]
+準備	preparation, setup, arrangements, provision, reserve	準備[じゅんび]
+母	mother	母[はは]
+番	number (in a series)	番[ばん]
+夜	evening, night	夜[よる]
+仲間	company, fellow, colleague, associate, comrade, mate, group, circle of friends, partner	仲間[なかま]
+かしら	I wonder	かしら
+敵	opponent, rival, adversary	敵[てき]
+外	outside, exterior	外[そと]
+昔	olden days, former	昔[むかし]
+感じる	to feel, to sense, to experience	感[かん]じる
+危険	danger, peril, hazard	危険[きけん]
+なんで	why?, what for?	なんで
+怒る	to get angry, to get mad	怒[おこ]る
+写真	photograph	写真[しゃしん]
+数	number, amount	数[かず]
+連絡	to contact, to get in touch	連絡[れんらく]
+空	sky, the heavens	空[そら]
+愛	love, affection, care	愛[あい]
+命	life, life force	命[いのち]
+確かに	surely, certainly	確[たし]かに
+ところ	place, spot, scene, site	ところ
+くらい	approximately, about, around, or so	くらい
+大事	important, valuable, serious matter	大事[だいじ]
+大	big, large	大[だい]
+一番	best, first, number one	一番[いちばん]
+うれしい	happy, glad, pleasant	うれしい
+急ぐ	to hurry, to rush, to hasten, to make something happen sooner	急[いそ]ぐ
+約束	promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date	約束[やくそく]
+動く	to move, to stir, to shift, to shake, to swing	動[うご]く
+ばかり	only, merely, nothing but, no more than	ばかり
+別	distinction, difference, different, another, particular, separate, extra, exception	別[べつ]
+許す	to permit, to allow, to approve, to tolerate	許[ゆる]す
+水	water	水[みず]
+選ぶ	to choose, to select	選[えら]ぶ
+とおり	avenue, street, way, road	とおり
+王	king, ruler, sovereign, monarch	王[おう]
+用	task, business	用[よう]
+かかる	to suffer from	かかる
+消える	to go out, to vanish, to disappear	消[き]える
+何で	why?, what for?	何[なん]で
+止める	to stop (an activity), to cease, to discontinue, to end, to quit	止[と]める
+妻	wife	妻[つま]
+今度	now, this time, next time, another time	今度[こんど]
+残る	to remain, to be left	残[のこ]る
+悟	to perceive, to sense, to discern	悟[さとる]
+送る	to send (a thing), to dispatch, to despatch, to transmit	送[おく]る
+笑い声	laughter	笑い声[わらいごえ]
+何でも	any, whatever one likes, by all means, anything, everything	何[なん]でも
+欲しい	wanted, wished for, in need of, desired	欲[ほ]しい
+口	mouth	口[くち]
+こちら	this way (direction close to the speaker or towards the speaker), this direction	こちら
+おいしい	delicious, tasty, sweet	おいしい
+海	sea, beach	海[うみ]
+一体	"...the heck (e.g. ""what the heck?""), ...in the world (e.g. ""why in the world?""), ...on earth (e.g. ""who on earth?"")"	一体[いったい]
+探す	to search (for something desired, needed), to look for	探[さが]す
+全員	all members (unanimity), all hands, the whole crew, everyone, everybody	全員[ぜんいん]
+感じ	feeling, sense, impression	感[かん]じ
+行う	to perform, to do, to conduct oneself, to carry out	行[おこな]う
+面白い	interesting, amusing	面白[おもしろ]い
+幸せ	happiness, good fortune, luck, blessing	幸[しあわ]せ
+いいえ	no	いいえ
+任せる	to entrust (e.g. a task) to another, to leave to	任[まか]せる
+ちゃんと	diligently, seriously, earnestly, reliably, steadily, legitimately	ちゃんと
+国	country	国[くに]
+多い	many, numerous	多[おお]い
+名	name, given name	名[な]
+わかる	to understand, to comprehend, to grasp, to see, to get, to follow	わかる
+開く	to open, to undo, to unseal, to unpack	開[ひら]く
+学校	school	学校[がっこう]
+開ける	to become opened up, to improve, to get better	開[あ]ける
+さっき	some time ago, just now	さっき
+間	space, room, time, pause	間[ま]
+伝える	to convey, to report, to transmit, to communicate, to tell, to impart, to propagate, to teach, to bequeath	伝[つた]える
+ながら	while, during, as	ながら
+新しい	new, novel, fresh, recent, latest, up-to-date, modern	新[あたら]しい
+野郎	guy, fellow, chap, buddy	野郎[やろう]
+高い	expensive, high, tall	高[たか]い
+父親	father	父親[ちちおや]
+戦う	to fight, to battle, to combat, to struggle against, to wage war, to engage in contest	戦[たたか]う
+星	star	星[ほし]
+料理	cooking, cookery, cuisine	料理[りょうり]
+件	matter, case, item, affair, subject	件[けん]
+船	ship, boat, watercraft, vessel, steamship	船[ふね]
+驚く	to be surprised, to be astonished	驚[おどろ]く
+調べる	to examine, to investigate, to check up, to sense, to study, to inquire, to search	調[しら]べる
+とても	very, awfully, exceedingly	とても
+母親	mother	母親[ははおや]
+チーム	team	チーム
+やあ	Yo! (greeting)	やあ
+事件	event, affair, incident, case, plot, trouble, scandal	事件[じけん]
+今回	now, this time, lately	今回[こんかい]
+勝つ	to win, to gain victory	勝[か]つ
+道	road, street, way, path, course, route, lane	道[みち]
+情報	information, news, intelligence, advices	情報[じょうほう]
+失う	to lose, to part with	失[うしな]う
+夫	husband	夫[おっと]
+痛い	painful, sore	痛[いた]い
+全て	everything, all, the whole	全[すべ]て
+父さん	father	父[とう]さん
+これから	after this	これから
+終わり	the end	終[お]わり
+姿	figure, form, shape	姿[すがた]
+捜す	to search (for something desired, needed), to look for	捜[さが]す
+変える	to change, to alter, to transform, to convert, to turn, to vary	変[か]える
+今夜	this evening, tonight	今夜[こんや]
+もし	if, in case, supposing, excuse me!	もし
+失礼	discourtesy, impoliteness	失礼[しつれい]
+普通	general, ordinary, usual	普通[ふつう]
+連れる	to lead, to take (a person)	連[つ]れる
+合う	to come together, to merge, to unite, to meet	合[あ]う
+それに	besides, moreover	それに
+お母さん	mother	お 母[かあ]さん
+座る	to sit, to squat	座[すわ]る
+あんな	such (about something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener), so, that, sort of	あんな
+下	below, down, under	下[した]
+つまり	that is to say, that is, in other words, I mean	つまり
+ドア	door	ドア
+母さん	mother	母[かあ]さん
+クソ	bullshit, shit, damn	クソ
+切る	to cut, to cut through, to perform (surgery)	切[き]る
+嫌	disagreeable, detestable, unpleasant, reluctant	嫌[いや]
+得る	to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win	得[え]る
+方法	method, process, manner, way, means, technique	方法[ほうほう]
+撃つ	to shoot (at)	撃[う]つ
+聞こえる	to be heard, to be audible	聞[き]こえる
+一同	all present, all concerned, all of us	一同[いちどう]
+よろしく	nice to meet you	よろしく
+確認	confirmation, verification, validation, review, check, affirmation, identification	確認[かくにん]
+読む	to read	読[よ]む
+落ちる	to fall down, to drop, to fall (e.g. rain), to sink (e.g. sun or moon), to fall onto (e.g. light or one's gaze), to be used in a certain place (e.g. money)	落[お]ちる
+簡単	simple, easy, uncomplicated	簡単[かんたん]
+状況	state of affairs (around you), situation, circumstances	状況[じょうきょう]
+銃	gun, rifle, small arms	銃[じゅう]
+感謝	thanks, gratitude	感謝[かんしゃ]
+なん	what	なん
+負ける	to lose, to be defeated	負[ま]ける
+必ず	always, without exception, necessarily, certainly, without fail, positively, invariably	必[かなら]ず
+全然	not at all (with neg. verb)	全然[ぜんぜん]
+立つ	to stand, to rise, to stand up	立[た]つ
+気分	feeling, mood	気分[きぶん]
+ごめんなさい	I beg your pardon, excuse me	ごめんなさい
+なれる	to get used to, to grow accustomed to, to become familiar with	なれる
+冗談	jest, joke, funny story	冗談[じょうだん]
+捨てる	to throw away, to cast away, to dump, to discard	捨[す]てる
+かわいい	cute, adorable, charming, lovely, pretty	かわいい
+すみません	excuse me, pardon me, I'm sorry	すみません
+残念	deplorable, bad luck, regret, disappointment	残念[ざんねん]
+なるほど	I see, That's right!, Indeed	なるほど
+皆さん	all, everyone, everybody	皆[みな]さん
+わし	I, me (used by elderly males)	わし
+殴る	to strike, to hit	殴[なぐ]る
+町	town, block, neighbourhood, neighborhood	町[まち]
+泣く	to cry, to weep, to sob, to howl	泣[な]く
+実は	as a matter of fact, by the way, to tell you the truth, to be honest, frankly	実[じつ]は
+犯人	offender, criminal	犯人[はんにん]
+質問	question, inquiry, enquiry	質問[しつもん]
+落ち着く	to calm down, to compose oneself, to regain presence of mind	落ち着[おちつ]く
+とにかく	anyhow, at any rate, anyway, somehow or other, generally speaking, in any case, at least	とにかく
+離れる	to be separated, to be apart, to be distant	離[はな]れる
+病院	hospital	病院[びょういん]
+酒	alcohol, sake	酒[さけ]
+隠す	to hide, to conceal	隠[かく]す
+について	concerning, regarding	について
+長い	long	長[なが]い
+食う	to eat	食[く]う
+頃	(approximate) time, around, about, toward	頃[ころ]
+お金	money	お 金[かね]
+返す	to return (something), to restore, to put back	返[かえ]す
+遅い	slow	遅[おそ]い
+ゲーム	game	ゲーム
+困る	to be troubled, to be worried, to be bothered, to be embarrassed, to be stumped	困[こま]る
+気づく	to notice, to recognize, to recognise, to become aware of, to perceive, to realize, to realise	気[き]づく
+渡す	to ferry across (a river, etc.), to carry across, to traverse	渡[わた]す
+売る	to sell	売[う]る
+服	clothes (esp. Western clothes)	服[ふく]
+ちまう	to do something completely	ちまう
+血	blood	血[ち]
+死	death, decease	死[し]
+楽しむ	to enjoy (oneself)	楽[たの]しむ
+結果	result, consequence, outcome, effect	結果[けっか]
+足	foot, leg	足[あし]
+働く	to work, to labor, to labour	働[はたら]く
+映画	movie, film	映画[えいが]
+平気	coolness, calmness, composure, unconcern	平気[へいき]
+じゃん	isn't it	じゃん
+見つかる	to be found, to be discovered	見[み]つかる
+まず	first (of all), to start with, about, almost, anyway, well, now	まず
+最近	most recent, these days, right now, recently, nowadays	最近[さいきん]
+認める	to recognize, to recognise, to observe, to notice	認[みと]める
+与える	to give (esp. to someone of lower status), to bestow, to grant, to confer, to present, to award	与[あた]える
+会社	company, corporation	会社[かいしゃ]
+お父さん	father	お 父[とう]さん
+花	flower, blossom, bloom, petal	花[はな]
+計画	plan, project, schedule, scheme, program, programme	計画[けいかく]
+存在	existence, being	存在[そんざい]
+先輩	senior (at work or school), superior, elder, older graduate, progenitor, old-timer	先輩[せんぱい]
+ぐらい	approximately, about, around, or so	ぐらい
+きれい	pretty, lovely, beautiful, fair	きれい
+馬	Horse	馬[うま]
+にとって	to, for, concerning, as far as ... is concerned, regarding	にとって
+了解	comprehension, consent, understanding, agreement, roger (on the radio)	了解[りょうかい]
+成功	success, hit	成功[せいこう]
+ど	degree	ど
+説明	explanation, exposition	説明[せつめい]
+良い	good, excellent, fine, nice, pleasant, agreeable	良[よ]い
+おかげ	grace (of God), benevolence (of Buddha), blessing	おかげ
+始まる	to begin, to start, to commence	始[はじ]まる
+救う	to rescue from, to help out of, to save	救[すく]う
+木	tree, wood, timber	木[き]
+本気	seriousness, truth, sanctity	本気[ほんき]
+週間	week, weekly	週間[しゅうかん]
+薬	medicine, pharmaceuticals, (legal) drugs	薬[くすり]
+難しい	difficult, hard, troublesome, complicated, serious (disease, problem, etc.)	難[むずか]しい
+大きな	big, large, great	大[おお]きな
+笑う	to laugh, to smile	笑[わら]う
+しっかり	tightly (holding on), firmly, securely	しっかり
+結構	splendid, nice, wonderful, delicious, sweet	結構[けっこう]
+おはよう	good morning	おはよう
+社長	company president, manager, director	社長[しゃちょう]
+食事	meal	食事[しょくじ]
+街	.. street, .. quarter, .. district	街[まち]
+走る	to run	走[はし]る
+失敗	failure, mistake, blunder	失敗[しっぱい]
+昨日	yesterday	昨日[きのう]
+向かう	to face, to go towards	向[む]かう
+あの子	that girl, that kid	あの 子[こ]
+当然	natural, as a matter of course, justified, deserved, reasonable	当然[とうぜん]
+払う	to pay (e.g. money, a bill, one's taxes, etc.)	払[はら]う
+要る	to need, to want	要[い]る
+証拠	evidence, proof	証拠[しょうこ]
+奪う	to snatch away, to dispossess, to steal	奪[うば]う
+置く	to put, to place	置[お]く
+朝	morning	朝[あさ]
+選手	player (in game), team member	選手[せんしゅ]
+つらい	painful, bitter, heart-breaking	つらい
+通り	avenue, street, way, road	通[とお]り
+優しい	tender, kind, gentle, graceful, affectionate, amiable	優[やさ]しい
+手伝う	to help, to assist, to aid	手伝[てつだ]う
+答える	to answer, to reply	答[こた]える
+攻撃	attack, strike, offensive	攻撃[こうげき]
+着る	to wear (in modern Japanese, from the shoulders down), to put on	着[き]る
+用意	preparation, arrangements, provision, getting ready, laying out (e.g. a meal)	用意[ようい]
+今まで	until now, so far, up to the present	今[いま]まで
+理解	understanding, comprehension, appreciation, sympathy	理解[りかい]
+銀	silver	銀[ぎん]
+秘密	secret, secrecy, confidentiality, privacy	秘密[ひみつ]
+以外	with the exception of, excepting	以外[いがい]
+決まる	to be decided, to be settled	決[き]まる
+似る	to resemble, to look like, to take after	似[に]る
+いただく	to receive, to get, to accept, to take, to buy	いただく
+試合	match, game, bout, contest	試合[しあい]
+おかしい	funny, amusing, comical, laughable, ridiculous. strange, odd, funny, peculiar, weird, unusual, eccentric	おかしい
+別に	(not) particularly, nothing, separately	別[べつ]に
+的	-like, typical	的[てき]
+いろいろ	various	いろいろ
+住む	to live (of humans), to reside, to inhabit, to dwell, to abide	住[す]む
+火	fire	火[ひ]
+アメリカ	America	アメリカ
+村	village	村[むら]
+月	month, moon	月[つき]
+さすが	as one would expect	さすが
+たくさん	many, a lot, much	たくさん
+っていう	meaning, called, said	っていう
+そんなに	so much, so, like that	そんなに
+上げる	to raise, to elevate	上[あ]げる
+妹	younger sister	妹[いもうと]
+島	island	島[しま]
+求める	to demand, to want, to wish for	求[もと]める
+美しい	beautiful, lovely	美[うつく]しい
+邪魔	hindrance, obstacle, nuisance	邪魔[じゃま]
+本物	genuine article, real thing, real deal	本物[ほんもの]
+てめえ	you (used by young males)	てめえ
+とも	friend, companion, comrade, pal	とも
+よる	evening, night	よる
+軍	army, force, troops	軍[ぐん]
+助かる	to be saved, to be rescued, to survive, to be helped	助[たす]かる
+真	truth, reality, genuineness	真[しん]
+パーティー	party	パーティー
+キス	kiss	キス
+すばらしい	wonderful, splendid, magnificent	すばらしい
+撮る	to take (a photo)	撮[と]る
+点	spot, mark	点[てん]
+何とか	something, something or other, so-and-so, somehow	何[なん]とか
+曲	tune, piece of music	曲[きょく]
+味	flavor, flavour, taste	味[あじ]
+調子	tune, tone, key, pitch, time, rhythm	調子[ちょうし]
+させる	to make (someone) do	させる
+まるで	quite, entirely, completely, at all	まるで
+協力	cooperation, collaboration	協力[きょうりょく]
+ファン	fan	ファン
+特別	special	特別[とくべつ]
+おめでとう	congratulations	おめでとう
+行ける	to be good (at), to go well	行[い]ける
+無事	safety, peace, quietness	無事[ぶじ]
+十分	plenty, enough, sufficient, satisfactory, adequate	十 分[ふん]
+もらえる	to be able to receive, to be able to take, to be able to accept	もらえる
+忙しい	busy, hectic, occupied, engaged	忙[いそが]しい
+生徒	student, pupil	生徒[せいと]
+未来	the future (usually distant)	未来[みらい]
+南	South	南[みなみ]
+親	parent, parents	親[おや]
+州	state, province, county	州[しゅう]
+戦い	battle, fight, struggle, conflict	戦[たたか]い
+貸す	to lend, to loan	貸[か]す
+罪	crime, fault, indiscretion, sin	罪[つみ]
+聖	sacred, saint	聖[きよし]
+大好き	loveable, very likeable, like very much	大好[だいす]き
+狙う	to aim at	狙[ねら]う
+経験	experience	経験[けいけん]
+人々	each person, people, men and women, everybody	人々[ひとびと]
+大学	university	大学[だいがく]
+若い	young	若[わか]い
+くん	Mr (junior), master, boy	くん
+もしもし	hello (e.g. on phone)	もしもし
+友人	friend	友人[ゆうじん]
+思い出す	to recall, to remember, to recollect	思い出[おもいだ]す
+どれ	which (of three or more)	どれ
+気に入る	to be pleased with, to suit	気に入[きにい]る
+歩く	to walk	歩[ある]く
+女の子	girl	女の子[おんなのこ]
+続く	to continue, to last, to go on	続[つづ]く
+身	body, oneself	身[み]
+こんにちは	hello, good day (daytime greeting)	こんにちは
+練習	practice	練習[れんしゅう]
+弟	younger brother	弟[おとうと]
+号	number, edition, make, model, issue, part of that group	号[ごう]
+嫌い	dislike, hate	嫌[きら]い
+僕ら	we	僕[ぼく]ら
+止まる	to remain, to abide, to stay (in the one place)	止[と]まる
+盗む	to steal	盗[ぬす]む
+音楽	music	音楽[おんがく]
+間違い	mistake, error, blunder	間違[まちが]い
+チャンス	chance	チャンス
+過去	the past, bygone days, the previous	過去[かこ]
+最悪	the worst 	最悪[さいあく]
+生まれる	to be born	生[う]まれる
+逮捕	arrest, apprehension, capture	逮捕[たいほ]
+光	light	光[ひかり]
+だったら	if it's the case	だったら
+恋人	lover, sweetheart	恋人[こいびと]
+デート	date, go on a date	デート
+どっち	which way, which direction, where, which one	どっち
+生活	living, life (one's daily existence), livelihood	生活[せいかつ]
+急	urgent, sudden, abrupt	急[きゅう]
+客	guest, visitor, customer	客[きゃく]
+進む	to advance, to go forward	進[すす]む
+歌う	to sing	歌[うた]う
+歌	song	歌[うた]
+腕	arm	腕[うで]
+考え	thinking, thought, view, opinion, concept	考[かんが]え
+やっと	at last	やっと
+毎日	every day	毎日[まいにち]
+飛ぶ	to jump, to fly, to soar	飛[と]ぶ
+ゆっくり	slowly, at ease, restful	ゆっくり
+どの	which, what (way)	どの
+近く	near, neighbourhood, vicinity, shortly	近[ちか]く
+風	wind, breeze, draught, draft	風[かぜ]
+危ない	dangerous, risky, hazardous, perilous, precarious	危[あぶ]ない
+安心	relief, peace of mind	安心[あんしん]
+諦める	to give up, to abandon (hope, plans), to resign oneself (to)	諦[あきら]める
+安全	safety	安全[あんぜん]
+テレビ	television	テレビ
+絵	picture, drawing, painting, sketch	絵[え]
+疲れる	to get tired, to tire	疲[つか]れる
+記憶	memory, recollection, remembrance	記憶[きおく]
+現れる	to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise	現[あらわ]れる
+そっち	that way (direction distant from the speaker, close to the listener)	そっち
+兄	older brother	兄[あに]
+済む	to finish, to end, to be completed	済[す]む
+貴様	you, you bastard, you son of a bitch	貴様[きさま]
+追う	to chase, to run after, to pursue	追[お]う
+作戦	tactics, strategy	作戦[さくせん]
+こういう	such, like this	こういう
+正直	honesty, integrity, frankness	正直[しょうじき]
+連中	colleagues, company, a lot, those guys, group (of people)	連中[れんちゅう]
+すいません	sorry, excuse me, thank you	すいません
+謝る	to apologize, to apologise	謝[あやま]る
+携帯	cell phone, something carried (in the hand), handheld, portable	携帯[けいたい]
+あそこ	there (place physically distant from both speaker and listener), over there, that place, yonder	あそこ
+真実	truth, reality	真実[しんじつ]
+遊ぶ	to play, to enjoy oneself, to have a good time	遊[あそ]ぶ
+剣	sword	剣[けん]
+命令	order, command, decree, directive	命令[めいれい]
+勝手	one's own convenience, one's way, selfish	勝手[かって]
+多く	many, much, largely, abundantly, mostly	多[おお]く
+目的	purpose, goal, aim, objective, intention	目的[もくてき]
+子供たち	children	子供[こども]たち
+番組	program (e.g. TV)	番組[ばんぐみ]
+可能性	potentiality, likelihood, possibility, availability	可能性[かのうせい]
+まずは	first (of all), to start with, about, almost, anyway, well, now	まずは
+かなり	considerably, fairly, quite	かなり
+奴ら	they, those guys	奴[やつ]ら
+上がる	to rise, to go up, to come up, to ascend, to be raised	上[あ]がる
+ナレーション	Narration	ナレーション
+行動	action, conduct, behaviour, behavior, mobilization, mobilisation	行動[こうどう]
+完璧	perfect, complete, flawless	完璧[かんぺき]
+正しい	right, just, correct, righteous, honest, truthful, proper, straightforward, perfect	正[ただ]しい
+秒	second (60th min)	秒[びょう]
+楽しみ	enjoyment, pleasure, diversion, amusement, hobby	楽[たの]しみ
+兵士	soldier	兵士[へいし]
+もう一度	once more, again	もう 一度[いちど]
+場合	case, situation	場合[ばあい]
+宇宙	universe, cosmos, space	宇宙[うちゅう]
+望む	to desire	望[のぞ]む
+楽	comfort, ease	楽[らく]
+息	breath, breathing	息[いき]
+色	colour	色[いろ]
+ナレーター	narrator	ナレーター
+休む	to be absent, to take a day off	休[やす]む
+あたし	I, me	あたし
+大切	important, necessary, indispensable	大切[たいせつ]
+患者	(a) patient	患者[かんじゃ]
+そりゃ	very, extremely	そりゃ
+事故	accident, incident, trouble	事故[じこ]
+戦争	war	戦争[せんそう]
+責任	duty, responsibility (incl. supervision of staff)	責任[せきにん]
+さくら	cherry tree, cherry blossom	さくら
+触る	to touch, to feel	触[さわ]る
+確か	sure, certain, positive, definite	確[たし]か
+別れる	to be divided, to part from, to separate, to bid farewell	別[わか]れる
+残す	to leave (behind, over), to bequeath, to save, to reserve	残[のこ]す
+助け	assistance, help, aid, support, reinforcement	助[たす]け
+室	room	室[しつ]
+紹介	introduction, presentation, referral, listing	紹介[しょうかい]
+状態	current status, condition, situation, circumstances, state	状態[じょうたい]
+消す	to erase, to delete, to cross out	消[け]す
+胸	chest, breast	胸[むね]
+いくら	how much?, how many?	いくら
+報告	report, information	報告[ほうこく]
+魔法	magic, witchcraft, sorcery	魔法[まほう]
+重要	important, momentous, essential, principal, major	重要[じゅうよう]
+引く	to pull	引[ひ]く
+自由	freedom, liberty, as it pleases you	自由[じゆう]
+打つ	to hit (a person), to strike, to beat	打[う]つ
+弁護士	lawyer, attorney	弁護士[べんごし]
+観客	audience, spectator, spectators	観客[かんきゃく]
+ほか	other (place, thing, person), the rest	ほか
+着く	to arrive at, to reach	着[つ]く
+興味	interest (in something), curiosity (about something), zest (for)	興味[きょうみ]
+使える	to be usable, to be serviceable, to be useful	使[つか]える
+勉強	study	勉強[べんきょう]
+後ろ	back, behind, rear	後[うし]ろ
+警官	police officer	警官[けいかん]
+時代	period, epoch, era, age	時代[じだい]
+様子	state, state of affairs, situation, circumstances	様子[ようす]
+会長	president (of a society), chairman	会長[かいちょう]
+組	set (of items)	組[くみ]
+大人	adult	大人[おとな]
+親父	one's father, old man, one's boss	親父[おやじ]
+山	mountain, hill	山[やま]
+期待	expectation, anticipation, hope	期待[きたい]
+倒す	to throw down, to bring down, to blow down, to fell, to knock down, to set (something) down on its side, to turn (something) on its side	倒[たお]す
+もう少し	a bit more, a bit longer	もう 少[すこ]し
+襲う	to attack, to assail, to make an assault, to strike, to hunt down	襲[おそ]う
+病気	illness, disease, sickness	病気[びょうき]
+起こす	to raise, to cause, to wake someone	起[お]こす
+うるさい	noisy, loud	うるさい
+小さい	small, little, tiny	小[ちい]さい
+傷	wound, injury, cut, gash, bruise, scratch, scrape, scar	傷[きず]
+完全	perfection, completeness	完全[かんぜん]
+捕まえる	to catch, to arrest, to seize	捕[つか]まえる
+メール	Email	メール
+断る	to refuse, to reject, to dismiss, to turn down, to decline	断[ことわ]る
+トイレ	toilet	トイレ
+ホテル	Hotel	ホテル
+君たち	you (plural), all of you, you all	君[きみ]たち
+城	castle	城[しろ]
+大きい	big, large, great, loud	大[おお]きい
+それから	and then, after that	それから
+壁	wall, partition	壁[かべ]
+両親	parents, both parents	両親[りょうしん]
+陛下	your Majesty, his (or her) Majesty	陛下[へいか]
+描く	to draw, to paint, to sketch	描[えが]く
+運ぶ	to carry, to transport, to move, to convey	運[はこ]ぶ
+深い	deep	深[ふか]い
+ホントに	really, truly	ホント[ほんと]に
+超	super-, ultra-, hyper-, very, really	超[ちょう]
+鍵	key	鍵[かぎ]
+特に	particularly, especially	特[とく]に
+大統領	president, chief executive	大統領[だいとうりょう]
+迎える	to go out to meet	迎[むか]える
+地球	the earth, the globe	地球[ちきゅう]
+解決	settlement, solution, resolution	解決[かいけつ]
+雪	snow	雪[ゆき]
+だけど	however	だけど
+役	use, service, role	役[やく]
+そろそろ	slowly, quietly, steadily, gradually, gingerly	そろそろ
+記録	record, minutes, document	記録[きろく]
+僕たち	we	僕[ぼく]たち
+近づく	to approach, to draw near, to get close	近[ちか]づく
+ふざける	to joke, to jest, to kid, to josh	ふざける
+刑事	(police) detective	刑事[けいじ]
+捜査	search (esp. in criminal investigations), investigation, inquiry, enquiry	捜査[そうさ]
+仕方	way, method, means, resource, course	仕方[しかた]
+天	sky, heaven	天[てん]
+魂	soul, spirit	魂[たましい]
+答え	answer, reply, response, solution	答[こた]え
+首	neck	首[くび]
+喜ぶ	to be delighted, to be glad, to be pleased	喜[よろこ]ぶ
+会	meeting, assembly, party	会[かい]
+運命	fate, destiny, lot	運命[うんめい]
+しかも	moreover, furthermore	しかも
+勝負	victory or defeat, match, contest, game, bout	勝負[しょうぶ]
+二度と	never again (with negative verb)	二度[にど]と
+肉	meat	肉[にく]
+向こう	opposite side, other side, opposite direction	向[む]こう
+ボス	boss	ボス
+いつか	sometime, someday, one day, some time or other, the other day, in due course, in time	いつか
+届く	to reach, to arrive, to get through, to get at	届[とど]く
+武器	weapon, arms, ordnance	武器[ぶき]
+借りる	to borrow, to have a loan	借[か]りる
+医者	(medical) doctor, physician	医者[いしゃ]
+腹	abdomen, belly, stomach	腹[はら]
+そこで	so, accordingly, now, then, thereupon, therefore	そこで
+矢	arrow	矢[や]
+日本	Japan	日本[にっぽん]
+部	department (in an organization), division, bureau	部[ぶ]
+原因	cause, origin, source	原因[げんいん]
+魚	fish	魚[さかな]
+兄貴	elder brother	兄貴[あにき]
+話せる	to be able to speak, to be able to talk	話[はな]せる
+事実	fact, truth, reality	事実[じじつ]
+さえ	even, if only, if just, as long as, the only thing needed	さえ
+落とす	to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind	落[お]とす
+残り	remnant, residue, remaining, left-over	残[のこ]り
+たん	(cute) suffix for familiar person	たん
+今すぐ	at once, immediately, right now	今[いま]すぐ
+予定	plans, arrangement, schedule, program, programme, expectation, estimate	予定[よてい]
+そいつ	that person (guy, fellow)	そいつ
+担当	being in charge (of an area of responsibility), being responsible (for a work role, etc.)	担当[たんとう]
+ポイント	point	ポイント
+手紙	letter (postal)	手紙[てがみ]
+構う	to mind, to care about, to be concerned about	構[かま]う
+作品	work (e.g. book, film, composition, etc.), opus, performance, production	作品[さくひん]
+鳴き声	cry (esp. animal), roar, chirp, tweet, bark, whine, meow	鳴き声[なきごえ]
+こんなに	so, like this, in this way	こんなに
+ダンス	dance	ダンス
+年間	year (period of)	年間[ねんかん]
+突然	abrupt, sudden, unexpected, all at once	突然[とつぜん]
+兄さん	older brother, elder brother	兄[にい]さん
+刑務所	prison, penitentiary	刑務所[けいむしょ]
+ボール	ball	ボール
+兄弟	siblings, brothers and sisters	兄弟[きょうだい]
+コーヒー	coffee	コーヒー
+髪	hair (on the head)	髪[かみ]
+何度も	many times over, often	何度[なんど]も
+過ぎる	to pass through, to pass by, to go beyond	過[よ]ぎる
+千	thousand	千[せん]
+回る	to turn, to revolve	回[まわ]る
+集める	to collect, to assemble, to gather	集[あつ]める
+おじさん	uncle	おじさん
+足りる	to be sufficient, to be enough	足[た]りる
+発見	discovery, detection, finding	発見[はっけん]
+甘い	sweet-tasting, sweet, sugary, sugared	甘[あま]い
+今から	hence, from now, from the present moment, from this time forward	今[いま]から
+意見	opinion, view, comment	意見[いけん]
+ようこそ	welcome!, nice to see you!	ようこそ
+下がる	to hang down, to abate, to retire, to fall, to step back	下[さ]がる
+ここから	hereout, from hence, from here, from this place	ここから
+外す	to unfasten, to undo, to remove	外[はず]す
+久しぶり	a long time (since the last time), it's been a while (since I last saw, mailed, etc., you)	久[ひさ]しぶり
+想像	imagination, guess	想像[そうぞう]
+いっぱい	full	いっぱい
+森	forest	森[もり]
+枚	counter for flat objects (e.g. sheets of paper)	枚[まい]
+学ぶ	to study (in depth), to learn, to take lessons in	学[まな]ぶ
+人たち	people	人[ひと]たち
+監督	supervision, control, superintendence, direction	監督[かんとく]
+飯	food, cooked rice	飯[めし]
+悪魔	devil, demon, fiend, evil spirit	悪魔[あくま]
+旅	travel, trip, journey	旅[たび]
+あっち	that way (direction distant from both speaker and listener), over there, yonder	あっち
+不安	anxiety, uneasiness, insecurity, suspense	不安[ふあん]
+従う	to abide (by the rules), to obey, to follow, to accompany	従[したが]う
+現場	actual spot, scene, scene of the crime, site, location, setting	現場[げんば]
+試す	to attempt, to test, to try out	試[ため]す
+正解	correct, right, correct interpretation (answer, solution)	正解[せいかい]
+去る	to leave, to go away	去[さ]る
+誘う	to invite, to ask, to call (for)	誘[さそ]う
+付ける	to wear, to attach, to join, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment)	付[つ]ける
+最も	most, extremely	最[もっと]も
+それでも	but (still), and yet, nevertheless, even so, notwithstanding	それでも
+任務	duty, function, office, mission, task	任務[にんむ]
+勝てる	to win, to gain victory	勝[か]てる
+嫌う	to hate, to dislike, to loathe	嫌[きら]う
+反応	reaction, response	反応[はんのう]
+黒	black	黒[くろ]
+博士	doctorate, PhD, Dr (as a title)	博士[はかせ]
+待てる	to wait	待[ま]てる
+自信	self-confidence, confidence (in oneself)	自信[じしん]
+勝利	victory, triumph, conquest, success, win	勝利[しょうり]
+間違う	to make a mistake, to be incorrect, to be mistaken	間違[まちが]う
+動物	animal	動物[どうぶつ]
+希望	hope, wish, aspiration	希望[きぼう]
+こら	hey!, interjection meant to scold or reprove someone	こら
+相談	consultation, discussion	相談[そうだん]
+姉	older sister, elder sister	姉[あね]
+覚悟	resolution, resignation, readiness, preparedness	覚悟[かくご]
+ベッド	bed	ベッド
+当たる	to be hit, to strike	当[あ]たる
+後で	afterwards	後[あと]で
+奥さん	wife, your wife, his wife, married lady, madam	奥[おく]さん
+恋	(romantic) love	恋[こい]
+思い	thought	思[おも]い
+取れる	to come off, to be removed	取[と]れる
+いい子	good boy, good girl	いい 子[こ]
+太	fat, fatty	太[ふとし]
+起こる	to occur, to happen	起[お]こる
+立てる	to stand up, to put up, to set up, to erect, to raise	立[た]てる
+ありがと	thank you	ありがと
+過ごす	to pass (time), to spend	過[す]ごす
+誕生日	birthday	誕生日[たんじょうび]
+その後	after that, afterwards, thereafter	その 後[ご]
+撮影	photography (still or motion), photographing, filming, shooting, (video) recording	撮影[さつえい]
+隠れる	to hide, to be hidden, to conceal oneself, to disappear	隠[かく]れる
+信用	confidence, dependence, credit, faith, reliance, belief, credence, trust	信用[しんよう]
+カメラ	camera	カメラ
+集まる	to gather, to collect, to assemble	集[あつ]まる
+結局	after all, eventually, in the end	結局[けっきょく]
+速い	fast, quick, hasty, brisk	速[はや]い
+研究	study, research, investigation	研究[けんきゅう]
+望み	wish, desire, hope	望[のぞ]み
+なのに	and yet, despite this, but even so, but even then, however, nevertheless, for all that, notwithstanding that	なのに
+努力	great effort, exertion, endeavour, endeavor, effort	努力[どりょく]
+直す	to cure, to heal, to fix, to correct, to repair	直[なお]す
+永遠	eternity, perpetuity, immortality, permanence	永遠[えいえん]
+瞬間	moment, second, instant	瞬間[しゅんかん]
+少年	boy, juvenile, young boy, youth, lad	少年[しょうねん]
+現実	reality	現実[げんじつ]
+左	left, left hand side	左[ひだり]
+ついに	finally, at last	ついに
+鳥	bird	鳥[とり]
+踊る	to dance	踊[おど]る
+見事	splendid, magnificent, beautiful, admirable	見事[みごと]
+近い	near, close, short (distance)	近[ちか]い
+影響	influence, effect	影響[えいきょう]
+治療	medical treatment, cure	治療[ちりょう]
+耳	ear	耳[みみ]
+なくなる	to be lost (e.g. luggage), to be missing	なくなる
+押す	to push, to press	押[お]す
+美	Beauty	美[よし]
+緊張	tension	緊張[きんちょう]
+申し訳	apology, excuse	申し訳[もうしわけ]
+暮らす	to live, to get along	暮[く]らす
+切れる	to break, to snap, to be cut, to split, to crack	切[き]れる
+代	substitution	代[だい]
+壊す	to break, to destroy, to demolish	壊[こわ]す
+辞める	to resign, to retire, to quit, to leave (one's job, etc.	辞[や]める
+どうせ	anyhow, in any case, at any rate, after all, at best, at most, at all, no matter what	どうせ
+新	new, neo-	新[しん]
+それとも	or, or else	それとも
+利用	use, utilization, utilisation, application	利用[りよう]
+遅れる	to be late, to be delayed, to fall behind schedule, to be overdue	遅[おく]れる
+動き	movement, move, motion	動[うご]き
+乾杯	cheers, toast, drink (in celebration or in honor of something)	乾杯[かんぱい]
+付き合う	to associate with, to keep company with, to go out with, to go steady with, to get on with	付き合[つきあ]う
+吸う	to smoke, to breathe in, to inhale	吸[す]う
+手術	(surgical) operation, procedure	手術[しゅじゅつ]
+傷つける	to wound, to injure	傷[きず]つける
+それでは	well then ...	それでは
+小さな	small, little, tiny	小[ちい]さな
+思える	to seem, to appear likely	思[おも]える
+静かに	calmly, quietly, gently, peacefully	静[しず]かに
+完成	complete, completion	完成[かんせい]
+泣き声	cry, crying voice	泣き声[なきごえ]
+当時	at that time, in those days	当時[とうじ]
+靴	shoes, boots, footwear, footgear	靴[くつ]
+味方	friend, ally, supporter	味方[みかた]
+たぶん	perhaps, probably	たぶん
+後悔	regret, repentance, remorse	後悔[こうかい]
+そうですね	that's so, isn't it	そうですね
+検査	inspection (e.g. customs, factory), examination, scan (e.g. MRI, PET, etc.)	検査[けんさ]
+調査	investigation, examination, inquiry, enquiry, survey	調査[ちょうさ]
+最低	least, lowest, worst	最低[さいてい]
+王子	prince	王子[おうじ]
+バス	bus	バス
+形	form, shape, figure	形[かたち]
+レベル	level	レベル
+雨	rain	雨[あめ]
+実際	practicality, practical, actual	実際[じっさい]
+そのまま	without change, as it is (i.e. now)	そのまま
+あの人	he, she, that person	あの 人[ひと]
+長	head, chief, leader, elder	長[なが]
+代表	representative, representation, delegation, type, example, model	代表[だいひょう]
+助	help, rescue, assistant	助[すけ]
+社	company, association, society	社[しゃ]
+もうすぐ	very soon	もうすぐ
+寂しい	lonely, lonesome, solitary, desolate	寂[さび]しい
+席	seat	席[せき]
+高校	high school	高校[こうこう]
+億	hundred million	億[おく]
+映像	reflection, image, picture (e.g. on a television), shot	映像[えいぞう]
+拍手	clapping hands, applause	拍手[はくしゅ]
+恥ずかしい	shy, ashamed, embarrassed	恥[は]ずかしい
+指示	indication, instruction, designation, directions	指示[しじ]
+によって	according to, by (means of), due to, because of	によって
+慣れる	to get used to, to grow accustomed to, to become familiar with	慣[な]れる
+面倒	trouble, difficulty, care, attention	面倒[めんどう]
+それも	and in addition to that	それも
+カード	card	カード
+合わせる	to match (rhythm, speed, etc.)	合[あ]わせる
+我慢	patience, endurance, perseverance, tolerance, self-control, self-denial	我慢[がまん]
+彼氏	boyfriend	彼氏[かれし]
+誤解	misunderstanding	誤解[ごかい]
