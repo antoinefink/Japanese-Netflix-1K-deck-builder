@@ -12,7 +12,7 @@ AI is not perfect (yet, at least), and so mistakes can slip in. Additionally, im
 
 ## Usage
 
-You can download the deck from https://ankiweb.net/shared/info/XXXXX.
+You can download the deck from [https://ankiweb.net/shared/info/1925323165](https://ankiweb.net/shared/info/1925323165).
 
 ## Development
 
